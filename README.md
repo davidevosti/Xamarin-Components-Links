@@ -7,6 +7,8 @@ This is a by-no-means-complete collection of direct links to Xamarin components.
 Happy downgrading.
 
 ## VS4Mac
+https://dl.xamarin.com/VsMac/VisualStudioForMac-8.8.4.30.dmg
+
 https://dl.xamarin.com/VsMac/VisualStudioForMac-8.8.3.16.dmg
 
 https://dl.xamarin.com/VsMac/VisualStudioForMac-8.7.8.4.dmg
